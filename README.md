@@ -43,8 +43,9 @@ The script checks for rain in the specified location within the next 12 hours. Y
 
 ```plaintext
 Rain expected in the next 12 hours—grab your umbrella! ☔️ Stay dry!
-![app](https://github.com/user-attachments/assets/522fc7aa-68a0-4086-8848-61ad50891a41)
 ```
+![app](https://github.com/user-attachments/assets/9259552c-10ac-490b-b1b0-29dbac952298)
+
 
 ## Code Overview
 
